@@ -12,7 +12,7 @@ public class BasicApplicationTests {
  
  @Test
  public void contextLoads() {
- 	    String meessage= "default message cambio test devops added";
+ 	    String meessage= "default message nuevo cambio";
  	    Assert.assertNotNull(meessage);
  }
  
